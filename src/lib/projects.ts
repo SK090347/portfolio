@@ -93,13 +93,6 @@ export const projects: Project[] = [
     language: "TypeScript",
   },
   {
-    name: "leetcode",
-    blurb: "Hard problem notes in TypeScript — patterns, complexity, Vitest.",
-    href: "https://github.com/SK090347/leetcode",
-    tags: ["TypeScript", "Algorithms", "Interview"],
-    language: "TypeScript",
-  },
-  {
     name: "ts-algorithms",
     blurb: "Small DS&A library — binary search, Dijkstra, Union-Find, LRU, Trie.",
     href: "https://github.com/SK090347/ts-algorithms",
@@ -112,11 +105,5 @@ export const projects: Project[] = [
     href: "https://github.com/SK090347/devtools-kit",
     tags: ["TypeScript", "CLI", "DX"],
     language: "TypeScript",
-  },
-  {
-    name: "system-design-notes",
-    blurb: "Architecture notes — shortener, rate limiter, feed, campus knowledge layer.",
-    href: "https://github.com/SK090347/system-design-notes",
-    tags: ["Architecture", "Markdown", "Notes"],
   },
 ];
