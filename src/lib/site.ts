@@ -15,7 +15,7 @@ export const site = {
   /** Set to show Instagram in Contact; leave empty to hide. */
   instagram: process.env.NEXT_PUBLIC_INSTAGRAM_URL || "https://www.instagram.com/glitch_realm_007/",
   hub: "https://sk090347.github.io/",
-  url: "https://sk090347.github.io/portfolio",
+  url: "https://sk090347.github.io/portfolio/",
 } as const;
 
 export type SiteConfig = typeof site;

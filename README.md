@@ -1,5 +1,7 @@
 # Sumit Kumar Ta — Portfolio
 
+
+**Live site:** https://sk090347.github.io/portfolio/
 > 3D interactive portfolio — WebGL black-hole hero · Adamas CSE AI/ML · Sumit Kumar Ta
 
 Flagship personal site for **Sumit Kumar Ta**, first-year B.Tech CSE (AI & ML) at Adamas University, Kolkata.
