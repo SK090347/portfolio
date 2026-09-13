@@ -8,6 +8,28 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    name: "stackvm",
+    blurb: "Tiny bytecode stack VM — call frames, .svm assembler, CLI.",
+    href: "https://github.com/SK090347/stackvm",
+    tags: ["TypeScript", "VM", "Bytecode"],
+    language: "TypeScript",
+  },
+  {
+    name: "gradtape",
+    blurb: "Reverse-mode autodiff tape + tiny MLP. Finite-diff checked grads.",
+    href: "https://github.com/SK090347/gradtape",
+    tags: ["TypeScript", "Autodiff", "ML"],
+    language: "TypeScript",
+  },
+  {
+    name: "leafstore",
+    blurb: "On-disk B+ tree KV — fixed pages, insert/get/range, single-file persistence.",
+    href: "https://github.com/SK090347/leafstore",
+    tags: ["TypeScript", "Storage", "B+ tree"],
+    language: "TypeScript",
+  },
+
+  {
     name: "raft-lab",
     blurb: "Raft you can crash and partition — election, replication, majority commit in TypeScript.",
     href: "https://github.com/SK090347/raft-lab",
