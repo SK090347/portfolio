@@ -9,6 +9,30 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    name: "lucid-calc",
+    blurb: "Premium glass calculator — basic & scientific modes, keyboard, history.",
+    href: "https://github.com/SK090347/lucid-calc",
+    live: "https://sk090347.github.io/lucid-calc/",
+    tags: ["HTML", "CSS", "JavaScript"],
+    language: "JavaScript",
+  },
+  {
+    name: "inkpad",
+    blurb: "Minimalist local notes — Markdown preview, search, autosave.",
+    href: "https://github.com/SK090347/inkpad",
+    live: "https://sk090347.github.io/inkpad/",
+    tags: ["HTML", "CSS", "JavaScript"],
+    language: "JavaScript",
+  },
+  {
+    name: "daypulse",
+    blurb: "Productivity dashboard — tasks, Pomodoro 25/5, daily habits.",
+    href: "https://github.com/SK090347/daypulse",
+    live: "https://sk090347.github.io/daypulse/",
+    tags: ["HTML", "CSS", "JavaScript"],
+    language: "JavaScript",
+  },
+  {
     name: "stackvm",
     blurb: "Tiny bytecode stack VM — call frames, .svm assembler, CLI.",
     href: "https://github.com/SK090347/stackvm",
