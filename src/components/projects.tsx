@@ -13,7 +13,7 @@ export function Projects() {
         <SectionHeading
           eyebrow="Projects / Repositories"
           title="Notable public work"
-          description="Systems, graphics, solvers, campus software, and interview-grade algorithms — each with source on GitHub and live demos where available."
+          description="Shipped apps first — lucid-calc, inkpad, daypulse — then systems, graphics, solvers, and algorithms. Source on GitHub; Live Demo on every card that has Pages."
         />
       </Reveal>
 
